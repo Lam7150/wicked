@@ -9,6 +9,7 @@ A wicked good website for my wicked experiments following the best wicked practi
 - CI/CD
 - Auth
 - Scalable Database Architecture
+- Skeletons, Fallback placeholders
 
 ### Tech Stack I want to touch:
 - Next.js
